@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "nga-crx",
+  "version": "1.0.0",
+  "description": "NGA雷霆崖配色",
+  "content_scripts":
+  [
+    {
+      "matches": ["https://bbs.nga.cn/*"],
+      "js": ["js/content-script.js"]
+    }
+  ]
+}

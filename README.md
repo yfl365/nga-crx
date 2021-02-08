@@ -1,1 +1,1 @@
-# nga-crx
+# wb-crx
